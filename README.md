@@ -40,8 +40,8 @@
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Senior Web Developer</h3>
-                            <div class="subheading mb-3">Intelitec Solutions</div>
-                            <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+                            <div class="subheading mb-3">Altisource Solutions Pvt ltd</div>
+                            <p>Administer and maintain system accounts through Active Directory.Troubleshoot hardware and software issues on the servers.Coordinate and train other members in the organization. </p>
                         </div>
                     </div>
                 </div>
