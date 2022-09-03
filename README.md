@@ -41,13 +41,13 @@
                 <div class="resume-section-content">
                     <h1 class="mb-0">
                         Bincy
-                        <span class="text-primary">Clarence</span>
+                        <span class="text-primary">Manuel</span>
                     </h1>
                     <div class="subheading mb-5">
-                        Enrique Gardens ·
-                        <a href="mailto:name@email.com">name@email.com</a>
+                        
+                        <a href="mailto:bincymm3@gmail.com">name@email.com</a>
                     </div>
-                    <p class="lead mb-5">I am experienced  to install, configure, and maintain various types of hardware and software, which often involves creating user accounts, carrying out backup and recovery functions, and monitoring the performance of servers.</p>
+                    <p class="lead mb-5">I have experience in installing, configuring and  maintain various types of hardware and software, which often involves creating user accounts, carrying out backup and recovery functions and monitoring the performance of servers.</p>
                     <div class="social-icons">
                         <a class="social-icon" href="#!"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="#!"><i class="fab fa-github"></i></a>
