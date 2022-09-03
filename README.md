@@ -39,9 +39,11 @@
                     <h2 class="mb-5">Experience</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Senior Web Developer</h3>
+                            <h3 class="mb-0">Technical Services Engineer</h3>
                             <div class="subheading mb-3">Altisource Solutions Pvt ltd</div>
-                            <p>Administer and maintain system accounts through Active Directory.Troubleshoot hardware and software issues on the servers.Coordinate and train other members in the organization. </p>
+                            <p>Administer and maintain system accounts through Active Directory.
+  Troubleshoot hardware and software issues on the servers.
+Coordinate and train other members in the organization. </p>
                         </div>
                     </div>
                 </div>
