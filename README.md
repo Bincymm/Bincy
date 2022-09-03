@@ -55,7 +55,7 @@ Coordinate and train other members in the organization. </p>
                     <h2 class="mb-5">Education</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">AJCE</h3>
+                            <h3 class="mb-0">AJCET</h3>
                             <div class="subheading mb-3">M.tech</div>
                             <div>Communication Engineering</div>
                             <p>CGPA: 7.3</p>
