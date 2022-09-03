@@ -60,16 +60,14 @@ Coordinate and train other members in the organization. </p>
                             <div>Communication Engineering</div>
                             <p>CGPA: 7.3</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2006 - May 2010</span></div>
-                    </div>
+                       </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">UCE</h3>
                             <div class="subheading mb-3">Electronics & Communication engineering</div>
                             <p>CGPA: 6.8</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2002 - May 2006</span></div>
-                    </div>
+                      </div>
                 </div>
             </div>
         <!-- Bootstrap core JS-->
