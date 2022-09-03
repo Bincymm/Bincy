@@ -71,9 +71,7 @@
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            
-
-                    </div>
+                            </div>
                 </div>
             </section>
             <hr class="m-0" />
