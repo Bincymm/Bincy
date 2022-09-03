@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
     <head>
         <meta charset="utf-8" />
@@ -69,7 +69,4 @@ Coordinate and train other members in the organization. </p>
                         </div>
                       </div>
                 </div>
-            </div>
-        <!-- Bootstrap core JS-->
-        </body>
-</html>
+           
